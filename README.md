@@ -1,2 +1,2 @@
 # CODSOFT
-Welcome to my Artificial Intelligence (AI) Internship Portfolio!In this repository, you will find a collection of projects that I have completed during my internship at Codsoft. Each project in this repository showcases my skills in Artificial Intelligence, Python,Machine Learning Techniques and problem-solving.
+Step into my Artificial Intelligence (AI) Internship Portfolio! Here, I present a curated compilation of projects completed during my tenure at Codsoft. Each project encapsulates my prowess in Artificial Intelligence, Python, Machine Learning Techniques, and dynamic problem-solving, showcasing a journey defined by innovation and impactful solutions.
